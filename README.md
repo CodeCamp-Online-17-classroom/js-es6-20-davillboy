@@ -15,3 +15,4 @@ console.log(topSalaries(salaries1)); // Pete
 let salaries2 = {};
 console.log(topSalaries(salaries2)); // null
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
